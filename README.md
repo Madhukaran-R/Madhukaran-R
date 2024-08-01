@@ -1,4 +1,4 @@
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhukaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhukaran github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukaran&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhukaran-R&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhukaran github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukaran-R&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 # Bio
